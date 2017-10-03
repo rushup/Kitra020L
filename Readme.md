@@ -1,0 +1,6 @@
+# Kitra020L
+
+<p align="center">
+![TOP](Y:\NOW\RUSHUP\KITRA\2017-3024.kitra020L\GITHUB\Kitra020L\TOP.png)
+![BOTTOM](Y:\NOW\RUSHUP\KITRA\2017-3024.kitra020L\GITHUB\Kitra020L\BOTTOM.png)
+</p>
